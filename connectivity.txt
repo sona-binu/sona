@@ -1,0 +1,11 @@
+nom init
+npm i express nodemon mysql
+
+create database youtube
+create table test(username varchar(30),phoneno varchar(30),emailid varchar(20),gender varchar(10));
+
+
+
+
+to run
+localhost:3004
